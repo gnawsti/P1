@@ -3,6 +3,8 @@
 <head>
 	<meta charset="utf-8">
 	<title>Andrew Wang P1- DWA15</title>
+	<!-- Bootstrap -->
+	<link rel="stylesheet" href="bootstrap.min.css"/>
 </head>
 <body>
 	<h1>Andrew Wang</h1>
